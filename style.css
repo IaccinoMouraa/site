@@ -17,6 +17,10 @@ body {
     margin: 0 auto;
 }
 
+.flex{
+    display: flex;
+}
+
 /* ESTILO DO CABECALHO */
 header {
     padding: 40px 4%;
@@ -26,11 +30,6 @@ header > .interface {
     display: flex;
     align-items: center;
     justify-content: space-between;
-}
-
-img {
-    width: 150px;
-    height: 150px;
 }
 
 header a {
@@ -62,5 +61,10 @@ header .btn-contato button {
     border: 0;
     border-radius: 30px;
     cursor: pointer;
+}
+
+/* ESTILO DO TOPO DO SITE */
+section.topo-do-site{
+    padding: 40px 4%;
 }
 
