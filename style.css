@@ -193,13 +193,15 @@ section.sobre .flex {
     transition: .2s;
 }
 
-/* ESTILO DO PORTFLÓLIO */
+/* ESTILO DO PORTFÓLIO */
 section.portfolio {
     padding: 80px 4%;
-    box-shadow: 0 0 40px 10px #ffffff1f;
+    box-shadow: 0 0 40px 10px #ffffff1e;
 }
 
-
+section.portfolio .flex {
+    justify-content: space-between;
+}
 
 .img-port {
     width: 360px;
