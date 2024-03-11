@@ -200,7 +200,11 @@ section.portfolio {
 }
 
 section.portfolio .flex {
-    justify-content: space-between;
+    
+}
+
+section.portfolio .flex{
+    gap: 80px;
 }
 
 .img-port {
