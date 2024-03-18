@@ -303,8 +303,9 @@ footer .line-footer {
 }
 
 .borda {
-    border-bottom: 2px solid #00ff08;
+    border-top: 2px solid #00ff08;
 }
+
 
 footer .line-footer p i {
     color:#00ff08;
